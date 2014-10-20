@@ -6,7 +6,7 @@ Measures and shares data online to determine plant maintenance
 Link to the Google Group:
 https://groups.google.com/forum/#!forum/smart-garden
 
-Link to Google Doc:
+Link to Google Slides:
 https://docs.google.com/presentation/d/19gJcvadTHgPOUIEl9CzkYp0vekDCrbA4pZkLkr4c_p4/edit#slide=id.g3ed3abdac_12
 
 WaterMe
