@@ -3,9 +3,6 @@ Smart-Garden
 
 Measures and shares data online to determine plant maintenance
 
-Link to the Google Doc
-https://docs.google.com/document/d/1kSmBwHYj3lxRaYot-vK8Vyi-PWqwhjS_HpSOBhehDq4/edit
-
 Link to the Google Group
 https://groups.google.com/forum/#!forum/smart-garden
 
@@ -17,6 +14,7 @@ Weather stream
 Sensor logging
 Data analysis
 User interface and notifications
+
 Components:
 Spark Core
 Sensors
@@ -26,6 +24,7 @@ Humidity / temperature ($9.00 for 5)
 Temperature (thermocouple)
 Power source
 Enclosure
+
 Steps:
 Connect sensors to spark-core
 Data logging
@@ -39,6 +38,7 @@ Communicate with user via app
 **New Feature: Prior to planting, WaterMe can be inserted into a pot of soil in your desired location.  The next day, the app will tell the user if the conditions are suitable and what plants will survive well.
 
 Goal: Wifi connected sensors send data to a sparkcore and then to the web.  Using this data, a google-app-script will determine the best way to care for your plants.
+
 Market research: 
 Post on forums - google garden online
 reddit.com/r/gardening,
@@ -50,39 +50,10 @@ Home Depot, Lowes, Walmart, Kohl’s, Sears, Costco
 Online Retailers: 
 Amazon, Craigslist
 
-
-
-
 Moisture sensor senses the water in the soil for the plant, every time it senses water it sends a timestamp, every # of hours sends a reminder for the usual watering.  Other sensors sends secondary information about recommendations for the plants condition.
-
 
 protolabs: free tooling estimate
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Forum post:
-
-
-
-
-Username: waterme!
-Password: waterme!
-http://www.helpfulgardener.com/forum/ucp.php?mode=register
 
 “WaterMe! App”
 Your personal gardening secretary
@@ -95,12 +66,6 @@ Using digital sensors, WaterMe! notifies the user via the WaterMe! smartphone ap
 WaterMe! will determine the best way to care for a variety of plants.  All the user needs to do is select his or her plant from our database of over 1000+ plants. The application will tell the user how to care the plants.
 
 
-
-
-
-
-
-
 acknowledgement that different forms of this exist: Plantsmart, thing we saw on 
 kickstarter - Edyn https://developers.google.com/apps-script/quickstart/docs
 http://docs.spark.io/
