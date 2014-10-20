@@ -3,8 +3,11 @@ Smart-Garden
 
 Measures and shares data online to determine plant maintenance
 
-Link to the Google Group
+Link to the Google Group:
 https://groups.google.com/forum/#!forum/smart-garden
+
+Link to Google Doc:
+https://docs.google.com/presentation/d/19gJcvadTHgPOUIEl9CzkYp0vekDCrbA4pZkLkr4c_p4/edit#slide=id.g3ed3abdac_12
 
 WaterMe
 Goals: measure and share data online to determine plant maintenance
