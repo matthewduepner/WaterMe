@@ -3,6 +3,12 @@ Smart-Garden
 
 Measures and shares data online to determine plant maintenance
 
+- Plant database
+- Weather stream
+- Sensor logging
+- Data analysis
+- User interface and notifications
+
 Link to the Google Group:
 https://groups.google.com/forum/#!forum/smart-garden
 
