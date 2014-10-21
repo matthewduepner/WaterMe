@@ -1,6 +1,11 @@
 Smart-Garden
 ============
 
+A couple friends and I have been developing a new product, WaterMe! which essentially acts as one’s own personal gardening secretary. WaterMe! connects our smart sensors to the user’s smartphone and reminds the user when to water and care for his/her plants. Using digital sensors, WaterMe! notifies the user via the WaterMe! smartphone app when the user’s house plants need watering. WaterMe! will determine the best way to care for a variety of plants.  All the user needs to do is select his or her plant from our database of over 1000+ plants. The application will tell the user how to care for the plants.
+Sign up here!
+https://docs.google.com/forms/d/1IgF8gaBSciwWvej-8zESSgI8rgCIdKEvVgFybbuxAIE/viewform
+Please contact us with questions: Info.WaterMe@gmail.com
+
 Measures and shares data online to determine plant maintenance
 
 - Plant database
