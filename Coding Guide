@@ -1,0 +1,82 @@
+Outline
+
+Connect sensors to spark-core
+Data logging
+Push data to cloud
+Analyze data
+Communicate with user via app
+
+Help - communicated with Sam Keene and several upperclassmen
+
+Yitzchak Yehoshua
+C: 516.974.4902 (USA)
+C: 054.328.7082 (Israel)
+LinkedIn
+--
+
+On Mon, Oct 6, 2014 at 1:24 PM, Sam Keene <samkeene@gmail.com> wrote:
+
+
+
+-------- Original Message --------
+Subject:	Re: EID
+Date:	Mon, 6 Oct 2014 11:25:09 -0400
+From:	Ethan Lusterman <ethan.lusterman@gmail.com>
+To:	Sam Keene <samkeene@gmail.com>
+
+Application architectures sounds like having a server running that polls the device at a regular interval, e.g. every 10 minutes. This information should be stored in a database (MongoDB is probably easiest for them to learn) with the moisture level and timestamp. This way, whatever app/website the user can access will have a nice looking graph of the moisture over time with some relevant statistics.
+
+Basic server stack could be Flask (Python server) and MongoDB. Not sure what kind of moisture sensor there is, but assuming it outputs a voltage that relates to moisture, they can grab this data easily. Might have to get the data in C and then make a GET/POST request to the server to save the data to the DB. 
+
+Just to summarize what I'm thinking:
+
+1) Flask server ALWAYS RUNNING has a URL route /savedata that expects POST data params MOISTURE & TIMESTAMP. This route will put the data into the correct format and save to mongo.
+2) C program that can get data from moisture sensor and submit POST request to server is either ALWAYS running (~ while (True)), or runs at an interval based on a CRON job (recommended). 
+3) Separate iPhone/Android app has a skeleton to display graph data and notifications. It will pull data from the flask server via route /getdata, which by default returns the last 50 datapoints in JSON format and displays them. Can enable extra params to grab the data in a certain time range.
+Example response:
+{ 'time2water': 'True',
+   'page': 1,
+   'numresults': 2,
+  'moistures': [
+   { 'time': '2014-01-01 09:00:00 PM', 'moisture': 0.457},
+   { 'time': '2014-01-01 09:10:00 PM', 'moisture': 0.451}
+  ]
+} 
+4) Flask server should maintain whether or not a moisture level is above/below a threshold depending on plant/region/what have you ('time2water'). This way, you can easily have the Flask server send the data to either the smartphone app or a web view by writing a simple template with HTML/CSS/JavaScript. That kind of data should be stored in a configuration file or in the database. 
+5) Not familiar with push notifications on Android or iPhone, so can't help you with this. But the basic logic is that if the smartphone app receives the API response from /getdata and time2water is True, then trigger a push notification. Otherwise just demonstrate usability by sending an email or displaying a notification area on the app that says 'Time to water!' or something.
+
+It seems like this project is only going to be concerned with one garden, so they shouldn't get tied up in handling user authentication and whatnot. This keeps the database/application logic much simpler
+
+Hope this helps. Let me know if you want me to come to meet with them for a few to explain/draw some pictures.
+
+Best,
+Ethan
+
+On Mon, Oct 6, 2014 at 10:44 AM, Sam Keene <samkeene@gmail.com> wrote:
+man... any idea what i should tell these kids? what is the easiest cloud solution for this kind of thing? arduino/raspberry pi -> cloud?
+
+-sam
+
+
+
+
+-------- Original Message --------
+Subject:	EID
+Date:	Mon, 6 Oct 2014 00:10:08 -0400
+From:	Yitzchak Yehoshua <isaacyehoshua@gmail.com>
+To:	keene@cooper.edu
+
+Hi Professor Keene,
+
+I'm working with a group on an EID101 (Connected Devices) project. We want to make a "Smart Garden." Our plan is to connect a Spark Core to a moisture sensor inserted in soil near a plant that will remind the owner via a smartphone application when it needs to be watered. We are thinking to have the sensor send a time stamp to a central cloud when it feels moisture and after x amount of hours, it will send a 'Water Me' notification to its user's smartphone.
+
+We would like to meet with you for some advice on how to build the system, more specifically the application architecture. 
+
+Our group has a mutual availability from 12:00-3:00pm. Are you available anytime in that window?
+
+Thanks!
+
+Yitzchak Yehoshua
+C: 516.974.4902 (USA)
+C: 054.328.7082 (Israel)
+LinkedIn
