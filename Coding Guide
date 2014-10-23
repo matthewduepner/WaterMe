@@ -1,10 +1,11 @@
-Outline
+Goal: Wifi connected sensors send data to a sparkcore and then to the web.  Using this data, a google-app-script will determine the best way to care for your plants.
 
-Connect sensors to spark-core
-Data logging
-Push data to cloud
-Analyze data
-Communicate with user via app
+Outline
+   Connect sensors to spark-core
+   Data logging
+   Push data to cloud
+   Analyze data
+   Communicate with user via app
 
 Help - communicated with Sam Keene and several upperclassmen
 
