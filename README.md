@@ -32,3 +32,13 @@ Useful links - List of helpful links gathered during the research process
 WaterMe! App (Android, Java) - Similar to sparkcore program file
 
 Google Doc: https://docs.google.com/document/d/1kSmBwHYj3lxRaYot-vK8Vyi-PWqwhjS_HpSOBhehDq4/edit#
+
+
+
+To Do
+Code Sparkcore and App
+Build
+Website, send to crappy blogs, email list, forums
+Out of Pocket Cost Calculator
+Kickstater - Final Presentation
+Kickstater Video
