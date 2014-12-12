@@ -1,0 +1,27 @@
+https://github.com/spark/photon/blob/master/bill-of-materials/photon-bom.xlsx
+
+QTY   Parts                                 Cost
+(1)   2.4GHz, Ceramic
+(2)   22uF, Ceramic, 10V, 10%, X5R
+(6)   0.1uF, Ceramic, 10V, 10%, X5R
+(4)   10uF, Ceramic, 10V, 10%, X5R
+(1)   0.8pF, Ceramic, 25V, ±0.25pF
+(1)   USB Micro-B with tabs and slots
+(1)   uFL Connector
+(1)   Diode, Schottky, 30V, 3A
+(1)   Diode, Schottky, 23V, 1A
+(1)   Blue, SMD
+(1)   LED RGB, SMD
+(2)   Single String, 1.2" Mating Length
+(1)   1.0uH, 2050mA
+(1)   3.3nH, RF inductor
+(1)   IC Buck Regulator, 1A
+(1)   45.2K, 1%
+(2)   100K, 1%
+(1)   1K5, 5%
+(2)   22R, 5%
+(1)   10K, 5%
+(4)   1K, 5%
+(2)   Button, 160gf
+(1)   DDTA113ZUA
+(1)   Broadcom Wi-FI + STM32 MCU
