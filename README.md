@@ -21,11 +21,13 @@ BOMS - List of the parts and cost of the necessary components to build our proto
 
 Code - Contains the progress that we have made on the sparkcore program, and WaterMe! google Appscript as well as the Coding Guide
 
-Market Research - Our approach on how to put WaterMe! into the real world. We have posted on various forums which can be seen in this file. We also have developed a google survey (which the link is included in each forum post) to gather the interest for our device. 
+Market Research-and-Advertising - Everything that we did to recieve and address feedback about WaterMe
 
-Midterm presentation - Outline of the presentation that was presented in class which summarizes our processes up to this point and what are next steps are for WaterMe!.
+Finances - 
 
-Code - Contains the progress that we have made on the sparkcore program, and WaterMe! google Appscript
+Kickstater Materials - The text that will go on the kickstarter page as well as the link to a google doc containing the videos which make up the kickstater video.
+
+Midterm presentation - Outline of the presentation that was presented for the midterm
 
 Useful links - List of helpful links gathered during the research process
 
