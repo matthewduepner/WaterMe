@@ -1,3 +1,7 @@
+https://github.com/adafruit/Adafruit_Sensor
+
+
+
 We have contacted both professors and upper classmen regarding the procedure of coding WaterMe!. The conversation via email is supplied in this file. Using the information from these conversations, we established a general outline for approaching how to code both the device and app.
 
 Goal: Wifi connected sensors send data to a sparkcore and then to the web.  Using this data, a google-app-script will determine the best way to care for your plants.
