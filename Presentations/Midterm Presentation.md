@@ -5,21 +5,21 @@ Outline:
 4.	Explain your next steps  
   
 Problems we wish to solve:  
-*	It is hard to take care of a plant. 
-*	People can be too busy.  
-*	New gardeners might not know what their plants need to survive.
+*	Caring for plants can be difficult
+*	New gardeners might not know what their plants need to survive
+*	People are often too busy to properly care for their plants
 	
-Our solution:
+Our solution:  
 
 Our product makes taking care of plants easier -- monitors the plant’s environment and notifies the user when to water the plant, using an online plant database.  CONTINUE STATING BENEFITS TO THE USER, not more information about the product -- never forget to water your plant, keep your plant alive, this is great for beginners, low cost.
 
 What we have done so far:  
 *	Bought parts  
 *	Began prototyping  
-*	Writing code
+*	Started writing code
 
 What do we plan to do next:  
-*	Make/finish a prototype (ensure the hardware works and connect it to the internet)
+*	Finish our prototype (ensure the hardware works and connect it to the internet)
 *	Make sure the software works (logs data and sends notifications)
 *	Make our product more aesthetically pleasing
 *	Work on marketing
