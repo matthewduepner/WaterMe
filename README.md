@@ -23,7 +23,7 @@ Code - Contains the progress that we have made on the sparkcore program, and Wat
 
 Market Research-and-Advertising - Everything that we did to recieve and address feedback about WaterMe
 
-Finances - More Costs
+Finances - Budget
 
 Kickstater Materials - The text that will go on the kickstarter page as well as the link to a google doc containing the videos which make up the kickstater video.
 
