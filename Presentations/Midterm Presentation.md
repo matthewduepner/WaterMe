@@ -1,23 +1,22 @@
-1) Have a good problem statement
-2) Explain the customer and how you will create value for them 
-3) Explain your progress
-4) Explain your next steps
+1) Have a good problem statement  
+2) Explain the customer and how you will create value for them   
+3) Explain your progress  
+4) Explain your next steps  
+  
+Problems we wish to solve:
 
-Problem we are solving:
+It is hard to take care of a plant.  
+People can be too busy.  
+New gardeners might not know what their plants require from the environment to live.
+	
+Our solution:
 
-	It is hard to take care of a plant.  People can be too busy.  New gardeners might not know what their plants require from the environment to live.
--solution/product, why people would buy this
+Our product makes taking care of plants easier -- monitors the plant’s environment and notifies the user when to water the plant, using an online plant database.  CONTINUE STATING BENEFITS TO THE USER, not more information about the product -- never forget to water your plant, keep your plant alive, this is great for beginners, low cost.
 
-
-What are we making? 
-
-	Our product makes taking care of plants easier -- monitors the plant’s environment and notifies the user when to water the plant, using an online plant database.  CONTINUE STATING BENEFITS TO THE USER, not more information about the product -- never forget to water your plant, keep your plant alive, this is great for beginners, low cost
-
-what have we done so far?
-
-	bought parts
-	began prototyping
-	writing code
+What we have done so far:  
+Bought parts  
+Began prototyping  
+Writing code
 
 what do we plan to do next?
 
