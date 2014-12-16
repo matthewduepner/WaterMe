@@ -1,13 +1,13 @@
-1) Have a good problem statement  
-2) Explain the customer and how you will create value for them   
-3) Explain your progress  
-4) Explain your next steps  
+Outline:  
+1.	Have a good problem statement  
+2.	Explain the customer and how you will create value for them   
+3.	Explain your progress  
+4.	Explain your next steps  
   
-Problems we wish to solve:
-
-It is hard to take care of a plant.  
-People can be too busy.  
-New gardeners might not know what their plants require from the environment to live.
+Problems we wish to solve:  
+*	It is hard to take care of a plant. 
+*	People can be too busy.  
+*	New gardeners might not know what their plants need to survive.
 	
 Our solution:
 
