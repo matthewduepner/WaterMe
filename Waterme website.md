@@ -1,6 +1,6 @@
 We used [IM-Creator](http://app.imcreator.com/) to create our [Website](http://www.i-m.mx/waterme/waterme/) ([Alternate link](http://www.i-m.mx/waterme/gardening/))
 
-Website Text
+Website Text:
 Plants are too easy to kill. Each plant has a unique, fragile environment that is difficult to manage. People are often discouraged from gardening because of this. We are here to make gardening simple.
  
  Introducing Water Me
