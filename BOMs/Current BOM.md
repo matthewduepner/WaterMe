@@ -9,5 +9,5 @@ Sensors
       Light ($3.15 for 5 photoresistors)
       Humidity / temperature ($9.00 for 5)
 
-Expenses
-https://docs.google.com/spreadsheets/d/1rid6ozdVW8G5P-cYJESIjIxpRVCzkYWl03EtkWTRMF8/edit#gid=0
+[Current BOM](https://docs.google.com/spreadsheets/d/1rid6ozdVW8G5P-cYJESIjIxpRVCzkYWl03EtkWTRMF8/edit#gid=0)
+
