@@ -1,5 +1,7 @@
-Spark Core
-Sensors
+Spark Core ($39.00)
+
+Sensors:
+
   Moisture ($15.50 for 4)
       
   Power source: (Battery Pack)
