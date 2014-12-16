@@ -4,8 +4,8 @@ Kickstarter Example Project: [Edyn](https://developers.google.com/apps-script/qu
 
 Prototyping: [Protolabs](http://www.protolabs.com/)
 
-[Sparkcore Research](http://docs.spark.io/)
-
+Spark Core Research:  
+[Getting Started Guide](http://docs.spark.io/)  
 [Github search for spark core code](https://github.com/search?utf8=%E2%9C%93&q=spark+core)
 
 Coding Help:  
