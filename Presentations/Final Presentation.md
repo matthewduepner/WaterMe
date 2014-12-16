@@ -1,5 +1,4 @@
-Link to google doc: 
-https://docs.google.com/presentation/d/1A1JIkSKSLvSw9ORBSAlGZZuq1dLDY5mYJ3U5fxPMYC4/edit#slide=id.g44fc17f6d_01
+Link to [google doc] (https://docs.google.com/presentation/d/1A1JIkSKSLvSw9ORBSAlGZZuq1dLDY5mYJ3U5fxPMYC4/edit#slide=id.g44fc17f6d_01)
 
 Context:
 Over the past few months, we’ve been working on WaterMe! The WaterMe! device is inserted directly into the soil near a plant and provides users with crucial information about a plant’s environment that they would otherwise lack. By monitoring the plants’ moisture levels, a watering schedule is determined. Our smartphone app will then remind users when their plants need to be watered and how to care for them.  All the user needs to do is select a plant from our database and WaterMe! does the rest.
