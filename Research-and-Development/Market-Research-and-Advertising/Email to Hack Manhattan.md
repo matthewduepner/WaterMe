@@ -11,5 +11,5 @@ Additional info:
 Sincerely,  
 Matthew Duepner  
 
-P.S. It would be greatly appreciated if you could fill out a quick survey since we are trying to gather info for our final presentation.
-[survey](https://docs.google.com/forms/d/1IgF8gaBSciwWvej-8zESSgI8rgCIdKEvVgFybbuxAIE/viewform)
+P.S. It would be greatly appreciated if you could fill out a quick
+[survey](https://docs.google.com/forms/d/1IgF8gaBSciwWvej-8zESSgI8rgCIdKEvVgFybbuxAIE/viewform) since we are trying to gather info for our final presentation.
