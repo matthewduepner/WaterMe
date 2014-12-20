@@ -22,3 +22,4 @@ Welcome the gardening revolution!
 
 
 [Video Clips](https://drive.google.com/folderview?id=0B8mZR-IuqxM0bWQ2RWdMb0xvY0k&usp=sharing)
+https://www.kickstarter.com/projects/1431676472/1368010181?token=4a528daf
